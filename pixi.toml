@@ -1,0 +1,15 @@
+[workspace]
+authors = ["h427ur <h427ur@outlook.com>"]
+channels = ["conda-forge"]
+name = "chyas"
+platforms = ["osx-arm64", "win-64", "linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+jupyterlab = ">=4.6.4,<5"
+chess = ">=1.11.2,<2"
+pandas = ">=3.0.6,<4"
+pixi-kernel = ">=0.7.1,<0.8"
+kagglehub = ">=1.0.2,<2"
