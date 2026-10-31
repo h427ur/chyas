@@ -1,5 +1,12 @@
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+.pixi/
+.idea/
+,idea/*
+.vscode/
+.vscode/*
 data/
-stockfish/
+data/*
+engines/
+.DS_Store
