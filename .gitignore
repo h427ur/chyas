@@ -9,5 +9,6 @@
 data/
 data/*
 engines/
-.DS_Store
 model/
+out/
+.DS_Store
